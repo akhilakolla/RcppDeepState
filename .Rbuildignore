@@ -1,0 +1,8 @@
+^codecov\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$
+.travis.yml
+.gitignore
+README.md
+usethis::use_build_ignore("ef5f52b2d007285c75c96ae47e3a5633592abdc8.crash")
+usethis::use_build_ignore("dd5b1543eccdc54b284c00142df7f40c1583ac68.crash")
